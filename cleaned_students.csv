@@ -1,0 +1,8 @@
+id,name,score,branch,city,status
+101,Madhan,92.0,AI&DS,Erode,Pass
+102,Kaviyan,0.0,AI&DS,Coimbatore,Fail
+103,Priyanka,88.0,ECE,Salem,Pass
+104,Abishek,0.0,CSE,Erode,Fail
+105,Niranjani,95.0,Unknown,Tirupur,Pass
+106,Ramesh,74.0,CSE,Chennai,Fail
+107,Sanjay,0.0,AI&DS,Erode,Fail
